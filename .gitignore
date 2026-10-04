@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+models/*.pkl
+.DS_Store
+.venv/
+friend's_gpt-repsonse.md
+Guidelines and Instructions_Mini Project Assignment.pdf
+Jimmy Du, Rolland He, Zhivko Zhechev, Forecasting Bike Rental Demand.pdf
+WORK_LOG_DETAILED.md
